@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/xom/xom-1.2.6.jar"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/json/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/json/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/spring/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/hibernate3.6/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/commons-beanutils-1.8.3/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/struts2/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/project/JAVA/lib/vtd-xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
